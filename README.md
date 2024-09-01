@@ -1,6 +1,6 @@
 # SliceStrike
 
-A aim-trainer game made in python where you have to gun down pizzas for a highscore.
+An aim-trainer game made in python where you have to gun down pizzas for a highscore.
 
 ## Development
 
